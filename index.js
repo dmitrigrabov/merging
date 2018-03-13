@@ -1,5 +1,5 @@
 function iterate(top){
   for(let i = 0; i < top; i++){
-    console.log(i*2);
+    console.log(i*3);
   }
 }
