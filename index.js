@@ -1,3 +1,5 @@
-for(let i = 0; i < 10; i++){
-  console.log(i*2);
+function iterate(top){
+  for(let i = 0; i < top; i++){
+    console.log(i*2);
+  }
 }
